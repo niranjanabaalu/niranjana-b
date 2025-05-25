@@ -1,6 +1,6 @@
 # N4si
 
-<h1 align="center">Hi there 👋, I'm Niranjana</h1>
+<h1 align="center">Hi World, I'm Niranjana</h1>
 <h3 align="center">🌐 A passionate Web Developer</h3>
 
 <p align="center">
@@ -10,10 +10,10 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 BCA Graduate | Fresher
-- 🧠 I enjoy building responsive, user-friendly web interfaces
-- 🔍 Actively seeking entry-level roles and internship opportunities in web development
-- 📫 Reach me at: **niranjanab005@gmail.com**
+-  BCA Graduate | Fresher
+-  I enjoy building responsive, user-friendly web interfaces
+-  Actively seeking entry-level roles and internship opportunities in web development
+-  Reach me at: **niranjanab005@gmail.com**
 
 ---
 
