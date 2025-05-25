@@ -1,18 +1,18 @@
 # N4si
 
 <h1 align="center">Hi there 👋, I'm Niranjana</h1>
-<h3 align="center">🌐 A passionate Front-End Developer from India</h3>
+<h3 align="center">🌐 A passionate Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Fresher+Web+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Open+to+Internships+%26+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Fresher+Web+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python;Open+to+Internships+%26+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 BCA Graduate | Front-End Developer
-- 💼 Actively looking for developer roles & internships
-- 💡 I’m currently improving my skills in **JavaScript** and exploring **React.js**
+- 🎓 BCA Graduate | Fresher
+- 🧠 I enjoy building responsive, user-friendly web interfaces
+- 🔍 Actively seeking entry-level roles and internship opportunities in web development
 - 📫 Reach me at: **niranjanab005@gmail.com**
 
 ---
