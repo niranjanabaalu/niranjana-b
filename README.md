@@ -46,13 +46,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4si&show_icons=true&theme=tokyonight" alt="Niranjana's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4si&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 > 📌 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
 
