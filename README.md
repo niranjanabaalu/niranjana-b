@@ -1,6 +1,6 @@
 # N4si
 
-<h1 align="center">Hi World, I'm Niranjana</h1>
+<h1 align="center">Hello World, I'm Niranjana</h1>
 <h3 align="center">🌐 A passionate Web Developer</h3>
 
 <p align="center">
