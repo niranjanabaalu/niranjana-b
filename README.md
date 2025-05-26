@@ -9,7 +9,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 -  BCA Graduate | Fresher
 -  I enjoy building responsive, user-friendly web interfaces
 -  Actively seeking entry-level roles and internship opportunities in web development
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/niranjana-balasubramanian-1ab0a4251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -46,5 +46,5 @@
 
 ---
 
-> 📌 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+>  *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
 
