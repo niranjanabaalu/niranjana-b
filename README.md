@@ -1,4 +1,4 @@
-# N4si
+# niranjanab
 
 <h1 align="center">Hello World, I'm Niranjana</h1>
 <h3 align="center">🌐 A passionate Web Developer</h3>
