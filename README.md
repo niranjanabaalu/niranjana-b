@@ -28,6 +28,9 @@
   <a href="https://auth.geeksforgeeks.org/user/niranjanabalazglw" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG" />
   </a>
+  <a href="https://leetcode.com/u/Niranjana_B/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+</a>
 </p>
 
 ---
