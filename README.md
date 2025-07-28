@@ -45,6 +45,3 @@ A secure and responsive Django-based artwork auction platform featuring login sy
 
 > “Don’t wait for opportunity. Create it.”
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niranjana-b&label=Profile%20views&color=0e75b6&style=flat" alt="niranjana-b" />
-</p>
