@@ -1,24 +1,22 @@
-# niranjana-b
-
-<h1 align="center">Hello World, I'm Niranjana</h1>
-<h3 align="center">🌐 A passionate Web Developer</h3>
+#  Hey there! I'm Niranjana B 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Fresher+Web+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python;Open+to+Internships+%26+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0080&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer+from+Chennai!;BCA+Graduate+%7C+Python+%7C+Django+%7C+HTML+%7C+CSS;Frontend+Focused+%E2%9C%A8+Backend+Capable+%F0%9F%9A%80;Open+for+Internships+and+Projects!"/>
 </p>
 
 ---
 
-### About Me
--  BCA Graduate | Fresher
--  I enjoy building responsive, user-friendly web interfaces
--  Actively seeking entry-level roles and internship opportunities in web development
--  Reach me at: **niranjanab005@gmail.com**
+##  About Me
+-  Recent BCA Graduate (Ethiraj College for Women, 2025)
+-  Final Year Project: **Art Vault Auctions** — a Django-based online artwork auction platform
+-  Looking for **internship / entry-level roles** in web development
+-  I'm from **Kandhanchavadi, Chennai** — passionate about tech & Tamil energy 
+-  Reach me: **niranjanab005@gmail.com**
 
 ---
 
-### Connect with Me
-<p align="left">
+## Connect with Me
+<p>
   <a href="https://linkedin.com/in/niranjana-balasubramanian-1ab0a4251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -29,25 +27,36 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG" />
   </a>
   <a href="https://leetcode.com/u/Niranjana_B/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-</a>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
-### Skills & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+##  My Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
 </p>
 
 ---
 
->  *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+##  Projects
+###  Art Vault Auctions (Final Year Project)
+> A secure and responsive Django-based artwork auction platform with login system, auction listings, and admin controls. Designed to support artists and digital collectors alike.
+---
 
+> *“Don’t wait for opportunity. Create it!” *
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niranjana-b&label=Profile%20views&color=0e75b6&style=flat" alt="niranjana-b" />
+</p>
